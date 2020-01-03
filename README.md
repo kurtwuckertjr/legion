@@ -8,7 +8,7 @@
 
 ## ABOUT
 Legion, a fork of SECFORCE's Sparta, is an open source, easy-to-use, super-extensible and semi-automated network penetration testing framework that aids in discovery, reconnaissance and exploitation of information systems. 
-[Legion](https://govanguard.io/legion) is developed and maintained by [GoVanguard](https://govanguard.io). More information about Legion, including the [roadmap](https://govanguard.io/legion), can be found on it's project page at [https://GoVanguard.io/legion](https://govanguard.io/legion).
+[Legion](https://govanguard.com/legion) is developed and maintained by [GoVanguard](https://govanguard.com). More information about Legion, including the [roadmap](https://govanguard.com/legion), can be found on it's project page at [https://GoVanguard.com/legion](https://govanguard.com/legion).
 
 ### FEATURES
 * Automatic recon and scanning with NMAP, whataweb, nikto, Vulners, Hydra, SMBenum, dirbuster, sslyzer, webslayer and more (with almost 100 auto-scheduled scripts)
@@ -33,7 +33,7 @@ Legion, a fork of SECFORCE's Sparta, is an open source, easy-to-use, super-exten
 * Supported by a highly active development team
 
 ### GIF DEMO 
-![](https://govanguard.io/wp-content/uploads/2019/02/LegionDemo.gif)
+![](https://govanguard.com/wp-content/uploads/2019/02/LegionDemo.gif)
 
 ## INSTALLATION
 
@@ -60,7 +60,7 @@ sudo ./runIt.sh
 Legion is licensed under the GNU General Public License v3.0. Take a look at the [LICENSE](https://github.com/GoVanguard/legion/blob/master/LICENSE) for more information.
 
 ## ATTRIBUTION
-* Refactored Python 3.6+ codebase, added feature set and ongoing development of Legion is credited to [GoVanguard](https://govanguard.io)
+* Refactored Python 3.6+ codebase, added feature set and ongoing development of Legion is credited to [GoVanguard](https://govanguard.com)
 * The initial Sparta Python 2.7 codebase and application design is credited SECFORCE.
 * Several additional PortActions, PortTerminalActions and SchedulerSettings are credited to batmancrew.
 * The nmap XML output parsing engine was largely based on code by yunshu, modified by ketchup and modified SECFORCE.
